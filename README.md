@@ -19,4 +19,3 @@ Hw3 - Text analysis
 
 Hw4 - Gradient boosting
 
-Hw5 - Clusterization
